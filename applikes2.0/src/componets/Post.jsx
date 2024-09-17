@@ -24,6 +24,13 @@ export function Post() {
             <a href="#">#vemoaraetec</a>
         </p>
       </div>
+
+      <form className={styles.commentForm}>
+        <strong>Deixe seu feedback !</strong>
+        <textarea placeholder='deixe um comentario'></textarea>
+        <button type="submit">Publicar</button>
+      </form>
+    
     </article>
   );
 }
