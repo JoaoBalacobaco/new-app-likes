@@ -21,7 +21,7 @@ const posts = [
       { type: "paragraph", content: "Amanhã faremos uma viagem para Bienal" },
       { type: "link", content: "oul.com.br" },
     ],
-    dataPublicacao: new Date("2024/09/10 09:44:00"),
+    dataPublicacao: new Date("2024/10/01 09:44:00"),
   },
   {
     Id: 2,
